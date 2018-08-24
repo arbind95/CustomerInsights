@@ -1,0 +1,149 @@
+img.image {
+	width: 80px;
+	height: 80px;
+	margin-left: 15%;
+}
+
+body{
+  background-color: #324B55;
+}
+
+input.inputbox{
+	color: #3B484D;
+	width: 20%;
+	margin-top: 70px;
+}
+
+h1{
+	color: #FFFFFF;
+	margin-left:3%;
+	
+}
+
+img.image{
+	margin-left:28%;
+}
+
+img.image, h1{
+	display: inline-grid;
+
+}
+
+h5{
+	margin-right: 8%;
+	text-align: right;
+	color: #FFFFFF;
+}
+
+p.paragraph{
+	color: #FFFFFF;
+	font-size: 20px;
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a, p.para{
+	color: #FFFFFF; 
+	display: inline-grid;
+	font-size: 17px;
+	margin: 10px;
+}
+
+.bottom{
+	background-color: #002C3D;
+	height: 45px;
+	text-align: right;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	padding-right: 25px;
+
+}
+
+button.btn{
+	display: inline-grid;
+	margin: 20px;
+  	border-radius: 10px;  	
+	color: #FFFFFF;
+  	background-color: #002C3D;
+  	font-size: 20px;
+  	width: 25%;
+}
+
+p.p {
+	text-align: center;
+}
+
+button.btns, button.sub{
+	display: grid;
+	margin-top: 20px;
+	margin-right: 35px;
+	width: 10%;
+	height: 40px;
+	border: none;
+  	border-radius: 10px;  	
+	color: #FFFFFF;
+  	background-color: #002C3D;
+  	font-size: 20px;
+}
+
+textarea.input{
+	width: 70%;
+	height: 30%;
+	background-color: white;
+	margin-left: 20px;
+}
+
+textarea.input, button.sub{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+table{
+	border: 1px solid black;
+	width: 70%;
+	color: #FFFFFF;
+	margin:auto;
+	
+}
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+table tr:nth-child(even) {
+    background-color: #B6BDC0;
+}
+table tr:nth-child(odd) {
+    background-color: #49616A;
+}
+th{
+	font-size:20px;
+	color:#FFFFFF;
+	background-color:#0C4155;
+}
+.theading{
+	color:#FFFFFF;
+	font-size:25px;
+}
+.reportheading{
+	color:#FFFFFF;
+	font-size:40px;
+}
+
+button.hom{
+	position: absolute;
+	left: 45%;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	width: 10%;
+	height: 40px;
+	border: none;
+  	border-radius: 10px;  	
+	color: #FFFFFF;
+  	background-color: #002C3D;
+  	font-size: 20px;
+}
+
+
+
